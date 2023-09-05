@@ -1,6 +1,6 @@
 from figureclass import Rectangle, Square, Circle
 
-"""Создаем экземпляры на основе клоссов"""
+"""Создаем экземпляры на основе классов"""
 rect1 = Rectangle(3, 4)
 rect2 = Rectangle(12,5)
 
